@@ -1,5 +1,5 @@
 # Discount-Finder
-***Finds the discount available based off the user's age
+***Finds the discount available based off the user's age***
 
 The purpose of this application was meant as practice in using if/else statements in JavaScript with minimal HTML and CSS added.
 
